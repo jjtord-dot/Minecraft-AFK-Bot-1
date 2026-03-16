@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "ip": "kalbo98.aternos.me",
+  "port": 25471,
+  "name": "Jeyk",     // username ng bot (huwag real mo)
+  "version": "1.21.11"        // lagay mo yung version ng server mo kung alam mo
 }
